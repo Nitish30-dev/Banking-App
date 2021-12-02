@@ -55,6 +55,7 @@ public class BankServiceImpl implements BankService {
 	@Override
 	public ResponseEntity<Object> updateCustomer(CustomerDetails customerDetails, Long customerNumber) {
 		// TODO Auto-generated method stub
+		//updating the customer
 		return null;
 	}
 
